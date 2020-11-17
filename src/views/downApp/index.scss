@@ -1,0 +1,56 @@
+@import '../../style/common.scss';
+.appBox{
+    width: 100%;
+    background:url(../../assets/images/appdown/APP_bg.png) no-repeat;
+    background-size: 100% 100%;
+    height: 969px;
+}
+.appDownLogo{
+    margin-bottom: 75px;
+}
+.enTit{
+    font-size: 50px;
+    color: #FFFFFF;
+    line-height: 58px;
+    margin-bottom: 6px;
+}
+.oran{
+    color:#DBAF6D;
+}
+.downTxt{
+    font-size: 30px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 42px;
+    margin-bottom: 16px;
+}
+.downTxtCont{
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 22px;
+    margin-bottom: 52px;
+}
+.downCode{
+    display:flex;
+    justify-content: flex-start;
+}
+.imgBox1{
+    width: 162px;
+    height: 162px;
+}
+.codeName1{
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 23px;
+    margin-bottom: 14px;
+}
+.codeName2{
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 21px;
+}
+.codeEq{
+    background:#FFFFFF;
+    padding:5px 5px 0 5px;
+}
